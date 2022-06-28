@@ -1,0 +1,4 @@
+interface CoreInput { }
+
+core.input = {
+}
